@@ -4,7 +4,7 @@ import "fmt"
 //    fmt.Printf("helloworld\n")
 //}
 func Hello() string {
-    return "Hello, world"
+    return "helloworld"
 }
 
 func main() {
